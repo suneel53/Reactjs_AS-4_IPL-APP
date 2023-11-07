@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.latest-match-cont {
+  border-radius: 10px;
+  background-color: #0f172a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 170px;
+}
+
+.latest-match-details-cont1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.latest-match-logo {
+  width: 80px;
+  height: 80px;
+}

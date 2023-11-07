@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.matchcard-cont {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  background-color: #1e293b;
+  color: white;
+  width: 30%;
+  height: 300px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.logo-image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+.col-won {
+  color: green;
+  font-weight: bold;
+}
+.col-lost {
+  color: red;
+  font-weight: bold;
+}
